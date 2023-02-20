@@ -21,8 +21,13 @@
     "echarts": "^5.4.1",
     "lodash": "^4.17.21",
     "ngx-mask": "^15.0.2",
+    "ngx-md": "^14.0.9",
+    "ngx-router-animations": "^13.0.0",
+    "ngx-scrollbar": "^11.0.0",
+    "random-avatar-generator": "^2.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "unique-names-generator": "^4.7.1",
     "zone.js": "~0.12.0"
   },
   "devDependencies": {
